@@ -17,3 +17,12 @@ NPM package boiler plate for anyone to clone and get started
   - "@psudeep/sample-npm-package": "^0.0.1",
 
 
+### steps to publish package in public mode
+
+- for private package you need to pay to npm
+- `npm login` run this command in your package directory
+- enter the username and password of npmjs.com account
+- run the command `npm publish --access public`
+- access your package on https://www.npmjs.com/package/@psudeep/sample-npm-package  
+
+
