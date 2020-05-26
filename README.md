@@ -1,7 +1,7 @@
 # sample npm package
 NPM package boiler plate for anyone to clone and get started
 
-- node version: v12.16.1 check .nvmrc file `nvm use`
+- node version: `v12.16.1` check `.nvmrc` file `nvm use`
 - install packages: `npm install`
 - command to run: `npm run build` - project uses typescript
 - if you have already run this command before, remove the lib folder and run the above command again
