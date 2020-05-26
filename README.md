@@ -4,7 +4,7 @@ NPM package boiler plate for anyone to clone and get started
 - node version: v12.16.1 check .nvmrc file `nvm use`
 - command to run: `npm run build` - project uses typescript
 
-###format command
+### format command
 
 - `npm run lint`
 - `npm run format`
